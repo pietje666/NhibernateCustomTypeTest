@@ -22,6 +22,6 @@ Repro create a local Database named test in MSSQLSERVER
         ('Product I', '2025-08-01'),
         ('Product J', NULL);
 
-  Create a products table and insert some products using the script above. Change your connectionstring in the Program.cs file to use your credentials/login method
+  Create a products table and insert some products using the script above. Change your connectionstring in the Program.cs file to use your credentials/login method.
 Then call from the Swagger UI
 
