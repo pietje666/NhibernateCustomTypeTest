@@ -1,0 +1,6 @@
+@NhibernateTest_HostAddress = http://localhost:5075
+
+GET {{NhibernateTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
